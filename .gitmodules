@@ -1,0 +1,3 @@
+[submodule "bear-classifier-fastai"]
+	path = bear-classifier-fastai
+	url = https://huggingface.co/spaces/photonmz/bear-classifier-fastai
